@@ -1,6 +1,6 @@
 # hr-attrition-analysis
 ## Dashboard Preview
-![Dashboard](HR analytics.png)
+![Dashboard](hr analytics.png)
 # HR Analytics — Employee Attrition Analysis
 
 ## Overview
